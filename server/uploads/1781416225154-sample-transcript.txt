@@ -1,0 +1,13 @@
+Project Review Meeting
+
+John: The dashboard module is almost complete. I will finish it by Friday.
+
+Sarah: Testing is in progress. I will complete all test cases by Monday.
+
+Mike: After testing is finished, I will deploy the application next week.
+
+John: We should also prepare the final project presentation.
+
+Sarah: I will create the presentation slides before Wednesday.
+
+Meeting concluded with agreement on the above action items.
